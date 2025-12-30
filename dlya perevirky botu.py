@@ -1,3 +1,4 @@
+help # Available commands: add, change, phone, add-birthday, show-birthday, birthdays, all, help, exit
 add Alice 1234567890 # Contact added.
 add Alice 0987654321 # Contact updated.
 change Alice 1234567890 1112223333 # Contact updated.
